@@ -1,3 +1,3 @@
 "proyecto "
-"subtitulo newbranch"
-#esto es un comentario en newbranch
+"subtitulo para los dos"
+#esto es un comentario en los dos
