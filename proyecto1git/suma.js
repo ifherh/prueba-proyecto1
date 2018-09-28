@@ -1,1 +1,1 @@
-console.log('resultado: ' + 1+2)
+console.log(`resultado: ${1+2}`)
